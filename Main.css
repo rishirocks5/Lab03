@@ -1,0 +1,29 @@
+.Objective {
+  width: 80%;
+  margin: 0 auto;
+}
+.Objective {
+    float: left;
+    clear: left;
+    width: 66%;
+    padding: 1em 5% 1em 10%;
+}
+    
+.Requirments {
+  background-attachment: scroll, fixed;
+  background-color: rgba(138,188,159,0.5);
+  background-image: url(https://www.nerist.ac.in/tnp/style/bamboo.png), url(http://www.cssauthor.com/wp-content/uploads/2013/07/Blurred-Background_111.jpg);
+    border-radius: 25px;
+  background-repeat: repeat, no-repeat;
+    background-size: auto, cover;
+}
+div.Requirments {
+    color:white;
+   float: left;
+clear: left;
+    width: 66%;
+    padding: 1em 5% 1em 10%;
+}
+div.Requirments li, div.Requirments ol{
+    color:white;
+}
